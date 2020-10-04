@@ -1,3 +1,9 @@
-# Hello-World-
-test reposotory
+#incude<iostream>
 using namespase std;
+
+
+ int main
+ {
+ system("pause");
+ }
+
